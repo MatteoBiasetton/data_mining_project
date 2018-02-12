@@ -1,4 +1,4 @@
-# data_mining_project
+# Data Mining Project
 University project for Data Mining course
 
 This repository contains the code for the final project of Data Mining course. University of Padua, Italy, academic year 2016-2017.
